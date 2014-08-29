@@ -1,0 +1,17 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"CodeFormatter",
+		"Cucumber",
+		"Cucumber Step Finder",
+		"DashDoc",
+		"ERB Snippets",
+		"Git",
+		"GitGutter",
+		"Guard",
+		"SideBarEnhancements",
+		"Theme - Phoenix"
+	]
+}
